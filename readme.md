@@ -26,7 +26,6 @@ The notes here are based on:
 ## 🧠 What You’ll Find Here
 - Concept-wise DSA notes
 - Important patterns and observations
-- Time & space complexity insights
 - Edge cases and common mistakes
 - Occasionally, optimized approaches and intuition
 
@@ -46,22 +45,6 @@ The notes here are based on:
 - Greedy Algorithms
 
 *(This list will expand as I progress.)*
-
----
-
-## 🎯 Why This Repo Exists
-- To learn **DSA the right way**, not just for interviews
-- To document my thinking process
-- To stay accountable and consistent
-- To improve as a software engineer
-
----
-
-## 🛠️ Learning Approach
-- Focus on **understanding over memorization**
-- Solve problems regularly
-- Revisit concepts using spaced repetition
-- Improve clarity through notes
 
 ---
 
