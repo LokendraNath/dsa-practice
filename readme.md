@@ -23,39 +23,7 @@ The notes here are based on:
 
 ---
 
-## 🧠 What You’ll Find Here
-- Concept-wise DSA notes
-- Important patterns and observations
-- Edge cases and common mistakes
-- Occasionally, optimized approaches and intuition
-
----
-
-## 🗂️ Topics Covered (Growing)
-- Arrays
-- Strings
-- Recursion
-- Linked List
-- Stack & Queue
-- Trees
-- Graphs
-- Dynamic Programming
-- Sliding Window
-- Two Pointers
-- Greedy Algorithms
-
-*(This list will expand as I progress.)*
-
----
-
-## 📈 Status
-This repository is actively maintained and updated as I progress through the course.
-
----
-
 ## 🤝 Acknowledgment
 Credits to **Akshay Saini** for the Namaste DSA course and his clear, practical teaching style.
 
 ---
-
-> Consistency beats intensity. One concept at a time.
